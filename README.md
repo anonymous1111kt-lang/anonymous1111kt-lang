@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" alt="Hacker Animation">
+</div>
+
 # VoxelCdr
 
 I'm a cybersecurity researcher focused on ethical hacking, penetration testing, and building security tools.
