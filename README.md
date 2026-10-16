@@ -1,4 +1,6 @@
-# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5YnJ5JmNwPQ/L1R1TVZNOXlkbzBiY3ZlcjVwbG9hZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRYP0r4e3eCw/giphy.gif" width="300"></div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" alt="Hacker Animation">
+</div>
 
 <div align="center">
   <h1>🔐 VoxelCdr</h1>
