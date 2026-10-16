@@ -23,9 +23,8 @@ I'm a cybersecurity researcher focused on ethical hacking, penetration testing, 
 
 **Programming**
 - Python
-- Bash
-- C++
-- Go
+- Java
+- C
 
 ## Current Projects
 
