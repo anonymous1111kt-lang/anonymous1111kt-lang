@@ -1,104 +1,33 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" alt="Hacker Animation">
-</div>
+# VoxelCdr
 
-<div align="center">
-  <h1>🔐 VoxelCdr</h1>
-  <p>Cybersecurity Researcher | Ethical Hacker | Security Enthusiast</p>
-</div>
+I'm a cybersecurity researcher focused on ethical hacking, penetration testing, and building security tools.
 
----
+## About
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonymous1111kt-lang&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats">
-</div>
+- Exploring vulnerability research and security assessments
+- Building tools for security testing and analysis
+- Learning digital forensics and malware analysis
+- Interested in network security and cryptography
 
----
+## Skills
 
-## 🎯 About Me
+**Security Tools**
+- Metasploit, Nmap, Burp Suite
+- Wireshark, TCPDump
+- Hashcat, John the Ripper
+- Volatility, Autopsy
 
-<div align="center">
-  <p>
-    🔒 Passionate about cybersecurity and ethical hacking<br>
-    🛡️ Dedicated to building a safer digital world<br>
-    🌍 Always learning, always exploring
-  </p>
-</div>
+**Programming**
+- Python
+- Bash
+- C++
+- Go
 
----
+## Current Projects
 
-## 🔥 Skills
+Working on security research and tool development.
 
-### 🔓 Penetration Testing
-```
-Metasploit | Nmap | Burp Suite | OWASP ZAP | SQLmap
-```
+## Contact
 
-### 🔍 Network Security
-```
-Wireshark | TCPDump | Snort | Suricata
-```
-
-### 🔐 Cryptography
-```
-Hashcat | John the Ripper | Hydra | OpenSSL
-```
-
-### 🕵️ Digital Forensics
-```
-Volatility | Autopsy | Sleuth Kit | Binwalk
-```
-
-### 💻 Programming
-```
-Python | Bash | PowerShell | C++ | Go
-```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous1111kt-lang&theme=dark&hide_border=true&background=000000&stroke=00ff00&ring=00ff00&fire=ff0000&currStreakLabel=00ff00" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous1111kt-lang&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" alt="Top Languages">
-</div>
-
----
-
-## 🎮 Current Focus
-
-- [ ] Penetration Testing
-- [ ] Cryptography
-- [ ] Digital Forensics
-- [ ] Malware Analysis
-- [ ] Network Security
-- [ ] Secure Coding
-
----
-
-## 📫 Connect
-
-<div align="center">
-  <p>
-    <a href="https://github.com/anonymous1111kt-lang">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub">
-    </a>
-    <a href="mailto:kushagratripathi491@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Email">
-    </a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <p style="color: #00ff00;">
-    "Knowledge is power. Guard it well."
-  </p>
-  <p>
-    <img src="https://profile-counter.glitch.me/anonymous1111kt-lang/count.svg" alt="Visitor Count">
-  </p>
-</div>
+- Email: kushagratripathi491@gmail.com
+- GitHub: [anonymous1111kt-lang](https://github.com/anonymous1111kt-lang)
